@@ -12,14 +12,9 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
-	@Test
-    public void testApp()
+    @Test
+    public void shouldAnswerWithTrue()
     {
         assertTrue( true );
     }
-
-	private void assertTrue(boolean b) {
-		// TODO Auto-generated method stub
-		
-	}
 }
